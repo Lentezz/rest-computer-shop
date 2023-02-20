@@ -1,8 +1,6 @@
 package com.shop.restcomputershop.service;
 
-import com.shop.restcomputershop.dto.Laptop;
 import com.shop.restcomputershop.dto.MonoBlock;
-import com.shop.restcomputershop.entity.LaptopEntity;
 import com.shop.restcomputershop.entity.MonoBlockEntity;
 import com.shop.restcomputershop.repository.MonoBlockRepository;
 import com.shop.restcomputershop.util.ComputerMapper;

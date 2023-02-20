@@ -1,7 +1,6 @@
 package com.shop.restcomputershop.controller;
 
 import com.shop.restcomputershop.dto.Customer;
-import com.shop.restcomputershop.dto.Desktop;
 import com.shop.restcomputershop.dto.Order;
 import com.shop.restcomputershop.service.DesktopService;
 import com.shop.restcomputershop.service.OrderService;
